@@ -5,8 +5,8 @@
 You can claim a positive integer by supporting me on Buy Me a Coffee:
 https://buymeacoffee.com/apintio
 
-The idea is simple: **all my games remain fully playable without a RankedAccess key.**
-However, to participate in a tournament, I need to verify that your code is actually playing under your identity.
+The idea is simple: **all my games remain fully playable without a RankedAccess key.**     
+However, to participate in a tournament, I need to verify that your code is actually playing for you.   
 
 
 **Positive integers** represent **users who have claimed and purchased a key**.
