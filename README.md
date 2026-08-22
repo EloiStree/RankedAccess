@@ -18,6 +18,9 @@ However, to participate in a tournament, I need to verify that your code is actu
 * They are intended for **temporary guest players**, such as players participating in tournaments without a permanent RankedAccess key.
 * The repository administrator can change or reassign these keys when needed.
 
+**0 Integer is the admin keys.**
+If you organise tournament with my applications/games.     
+The 0 key is for the admins.    
 
 ---
 
