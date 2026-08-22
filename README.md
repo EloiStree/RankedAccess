@@ -8,6 +8,17 @@ https://buymeacoffee.com/apintio
 The idea is simple: **all my games remain fully playable without a RankedAccess key.**
 However, to participate in a tournament, I need to verify that your code is actually playing under your identity.
 
+
+**Positive integers** represent **users who have claimed and purchased a key**.
+* A positive integer can only be changed through a **cryptographically signed request** from the key owner.
+* This ensures that the registered identity cannot be changed by someone else.
+
+**Negative integers** represent **guest keys**.
+* Guest keys can be overridden by the repository administrator.
+* They are intended for **temporary guest players**, such as players participating in tournaments without a permanent RankedAccess key.
+* The repository administrator can change or reassign these keys when needed.
+
+
 ---
 
 > I assume that if you are reading this, you already know what an RSA or ECC key is, since you have played my tutorials and/or games.
