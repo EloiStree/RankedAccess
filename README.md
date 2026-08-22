@@ -1,4 +1,4 @@
-# RankedAccess
+# Ranked Access
 
 > **Public key registration for ranked players in my games.**
 
